@@ -1,4 +1,4 @@
-# Experiment 12
+# Experiment 12 · 12/10/26
 
 **Analysis of 5G Network Architecture and IoT Connectivity**
 
