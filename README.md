@@ -38,7 +38,7 @@ ExpNN/
 
 <a id="exp01"></a>
 <details>
-<summary><b>Experiment 01</b> &nbsp;·&nbsp; 📅 23/10/26 &nbsp;·&nbsp; 3 outputs</summary>
+<summary><b>Experiment 01</b> &nbsp;·&nbsp; Design, Implementation and Performance Analysis of a LAN using Cisco Packet Tracer &nbsp;·&nbsp; 📅 05/10/26 &nbsp;·&nbsp; 3 outputs</summary>
 
 
 **Part A**
@@ -57,7 +57,7 @@ ExpNN/
 
 <a id="exp02"></a>
 <details>
-<summary><b>Experiment 02</b> &nbsp;·&nbsp; 📅 05/10/26 &nbsp;·&nbsp; 2 outputs</summary>
+<summary><b>Experiment 02</b> &nbsp;·&nbsp; Design and Implementation of VLAN Segmentation and Inter-VLAN Routing for a Multi-Department Network using Cisco Packet Tracer &nbsp;·&nbsp; 📅 07/10/26 &nbsp;·&nbsp; 2 outputs</summary>
 
 
 **Part A**
@@ -72,7 +72,7 @@ ExpNN/
 
 <a id="exp03"></a>
 <details>
-<summary><b>Experiment 03</b> &nbsp;·&nbsp; 📅 06/11/26 &nbsp;·&nbsp; 3 outputs</summary>
+<summary><b>Experiment 03</b> &nbsp;·&nbsp; Configuration and Analysis of DNS and DHCP Services for Automated Network Address and Name Management using Cisco Packet Tracer &nbsp;·&nbsp; 📅 07/10/26 &nbsp;·&nbsp; 3 outputs</summary>
 
 
 **Part A**
@@ -88,7 +88,7 @@ ExpNN/
 
 <a id="exp04"></a>
 <details>
-<summary><b>Experiment 04</b> &nbsp;·&nbsp; 📅 04/11/26 &nbsp;·&nbsp; 3 outputs</summary>
+<summary><b>Experiment 04</b> &nbsp;·&nbsp; Configuration and Analysis of SMTP and FTP Application-Layer Services using Cisco Packet Tracer &nbsp;·&nbsp; 📅 14/10/26 &nbsp;·&nbsp; 3 outputs</summary>
 
 
 **Part A**
@@ -104,7 +104,7 @@ ExpNN/
 
 <a id="exp05"></a>
 <details>
-<summary><b>Experiment 05</b> &nbsp;·&nbsp; 📅 16/10/26 &nbsp;·&nbsp; 2 outputs</summary>
+<summary><b>Experiment 05</b> &nbsp;·&nbsp; Packet-Level Analysis and Comparison of HTTP and HTTPS Communication using Wireshark &nbsp;·&nbsp; 📅 16/10/26 &nbsp;·&nbsp; 2 outputs</summary>
 
 
 **Part A**
@@ -119,7 +119,7 @@ ExpNN/
 
 <a id="exp06"></a>
 <details>
-<summary><b>Experiment 06</b> &nbsp;·&nbsp; 📅 14/10/26 &nbsp;·&nbsp; 2 outputs</summary>
+<summary><b>Experiment 06</b> &nbsp;·&nbsp; IPv4 and IPv6 Addressing, Subnetting and Connectivity Analysis using Cisco Packet Tracer &nbsp;·&nbsp; 📅 16/10/26 &nbsp;·&nbsp; 2 outputs</summary>
 
 <img src="Exp06/Exp06_01.png" width="480" alt="Exp06_01.png">&nbsp;
 <img src="Exp06/Exp06_02.png" width="480" alt="Exp06_02.png">&nbsp;
@@ -128,7 +128,7 @@ ExpNN/
 
 <a id="exp07"></a>
 <details>
-<summary><b>Experiment 07</b> &nbsp;·&nbsp; 📅 28/10/26 &nbsp;·&nbsp; 2 outputs</summary>
+<summary><b>Experiment 07</b> &nbsp;·&nbsp; Configuration and Comparative Performance Analysis of RIP, OSPF and BGP using GNS3 &nbsp;·&nbsp; 📅 28/10/26 &nbsp;·&nbsp; 2 outputs</summary>
 
 <img src="Exp07/Exp07_01.png" width="480" alt="Exp07_01.png">&nbsp;
 <img src="Exp07/Exp07_02.png" width="480" alt="Exp07_02.png">&nbsp;
@@ -137,7 +137,7 @@ ExpNN/
 
 <a id="exp08"></a>
 <details>
-<summary><b>Experiment 08</b> &nbsp;·&nbsp; 📅 21/10/26 &nbsp;·&nbsp; 2 outputs</summary>
+<summary><b>Experiment 08</b> &nbsp;·&nbsp; Analysis of SNMP-Based Network Monitoring and Management using a Network Simulation Environment &nbsp;·&nbsp; 📅 21/10/26 &nbsp;·&nbsp; 2 outputs</summary>
 
 <img src="Exp08/Exp08_01.png" width="480" alt="Exp08_01.png">&nbsp;
 <img src="Exp08/Exp08_02.png" width="480" alt="Exp08_02.png">&nbsp;
@@ -146,7 +146,7 @@ ExpNN/
 
 <a id="exp09"></a>
 <details>
-<summary><b>Experiment 09</b> &nbsp;·&nbsp; 📅 02/11/26 &nbsp;·&nbsp; 2 outputs</summary>
+<summary><b>Experiment 09</b> &nbsp;·&nbsp; Design and Implementation of an IoT-Based Smart Home Network using MQTT/CoAP with Connectivity and Security Analysis &nbsp;·&nbsp; 📅 02/11/26 &nbsp;·&nbsp; 2 outputs</summary>
 
 <img src="Exp09/Exp09_01.png" width="480" alt="Exp09_01.png">&nbsp;
 <img src="Exp09/Exp09_02.png" width="480" alt="Exp09_02.png">&nbsp;
@@ -155,7 +155,7 @@ ExpNN/
 
 <a id="exp10"></a>
 <details>
-<summary><b>Experiment 10</b> &nbsp;·&nbsp; 📅 30/10/26 &nbsp;·&nbsp; 1 output</summary>
+<summary><b>Experiment 10</b> &nbsp;·&nbsp; Design and Performance Evaluation of Quality of Service (QoS) Policies and Traffic Engineering using GNS3 &nbsp;·&nbsp; 📅 30/10/26 &nbsp;·&nbsp; 1 output</summary>
 
 <img src="Exp10/Exp10_01.jpeg" width="480" alt="Exp10_01.jpeg">&nbsp;
 
@@ -163,7 +163,7 @@ ExpNN/
 
 <a id="exp11"></a>
 <details>
-<summary><b>Experiment 11</b> &nbsp;·&nbsp; 📅 09/10/26 &nbsp;·&nbsp; 1 output</summary>
+<summary><b>Experiment 11</b> &nbsp;·&nbsp; Analysis of NFV, Cloud and Edge Networking Architecture using a Virtualized Network Environment &nbsp;·&nbsp; 📅 09/10/26 &nbsp;·&nbsp; 1 output</summary>
 
 <img src="Exp11/Exp11_01.jpeg" width="480" alt="Exp11_01.jpeg">&nbsp;
 
@@ -171,7 +171,7 @@ ExpNN/
 
 <a id="exp12"></a>
 <details>
-<summary><b>Experiment 12</b> &nbsp;·&nbsp; 📅 12/10/26 &nbsp;·&nbsp; 3 outputs</summary>
+<summary><b>Experiment 12</b> &nbsp;·&nbsp; Analysis of 5G Network Architecture and IoT Connectivity &nbsp;·&nbsp; 📅 12/10/26 &nbsp;·&nbsp; 3 outputs</summary>
 
 <img src="Exp12/Exp12_01.png" width="480" alt="Exp12_01.png">&nbsp;
 <img src="Exp12/Exp12_02.png" width="480" alt="Exp12_02.png">&nbsp;
@@ -181,7 +181,7 @@ ExpNN/
 
 <a id="exp13"></a>
 <details>
-<summary><b>Experiment 13</b> &nbsp;·&nbsp; 📅 14/10/26 &nbsp;·&nbsp; 5 outputs</summary>
+<summary><b>Experiment 13</b> &nbsp;·&nbsp; Detection, Classification and Analysis of Suspicious Network Traffic using Wireshark &nbsp;·&nbsp; 📅 14/10/26 &nbsp;·&nbsp; 5 outputs</summary>
 
 <img src="Exp13/Exp13_01.png" width="480" alt="Exp13_01.png">&nbsp;
 <img src="Exp13/Exp13_02.png" width="480" alt="Exp13_02.png">&nbsp;
@@ -193,7 +193,7 @@ ExpNN/
 
 <a id="exp14"></a>
 <details>
-<summary><b>Experiment 14</b> &nbsp;·&nbsp; 📅 07/10/26 &nbsp;·&nbsp; 6 outputs</summary>
+<summary><b>Experiment 14</b> &nbsp;·&nbsp; Phishing Email Investigation: Identification, Evidence Collection and Incident Analysis in a Safe Simulated Environment &nbsp;·&nbsp; 📅 07/10/26 &nbsp;·&nbsp; 6 outputs</summary>
 
 <img src="Exp14/Exp14_01.png" width="480" alt="Exp14_01.png">&nbsp;
 <img src="Exp14/Exp14_02.png" width="480" alt="Exp14_02.png">&nbsp;
@@ -206,7 +206,7 @@ ExpNN/
 
 <a id="exp15"></a>
 <details>
-<summary><b>Experiment 15</b> &nbsp;·&nbsp; 📅 26/10/26 &nbsp;·&nbsp; 6 outputs</summary>
+<summary><b>Experiment 15</b> &nbsp;·&nbsp; Symmetric and Asymmetric Cryptography: AES and RSA Performance and Security Analysis &nbsp;·&nbsp; 📅 26/10/26 &nbsp;·&nbsp; 6 outputs</summary>
 
 <img src="Exp15/Exp15_01.png" width="480" alt="Exp15_01.png">&nbsp;
 <img src="Exp15/Exp15_02.png" width="480" alt="Exp15_02.png">&nbsp;
@@ -219,7 +219,7 @@ ExpNN/
 
 <a id="exp16"></a>
 <details>
-<summary><b>Experiment 16</b> &nbsp;·&nbsp; 📅 20/11/26 &nbsp;·&nbsp; 2 outputs</summary>
+<summary><b>Experiment 16</b> &nbsp;·&nbsp; TLS/HTTPS Security Analysis and Certificate-Based Secure Communication using Wireshark &nbsp;·&nbsp; 📅 20/11/26 &nbsp;·&nbsp; 2 outputs</summary>
 
 <img src="Exp16/Exp16_01.png" width="480" alt="Exp16_01.png">&nbsp;
 <img src="Exp16/Exp16_02.png" width="480" alt="Exp16_02.png">&nbsp;
@@ -228,7 +228,7 @@ ExpNN/
 
 <a id="exp17"></a>
 <details>
-<summary><b>Experiment 17</b> &nbsp;·&nbsp; 📅 18/11/26 &nbsp;·&nbsp; 1 output</summary>
+<summary><b>Experiment 17</b> &nbsp;·&nbsp; Malware Detection and Security Analysis in an Isolated Laboratory Environment &nbsp;·&nbsp; 📅 18/11/26 &nbsp;·&nbsp; 1 output</summary>
 
 <img src="Exp17/Exp17_01.png" width="480" alt="Exp17_01.png">&nbsp;
 
@@ -236,7 +236,7 @@ ExpNN/
 
 <a id="exp18"></a>
 <details>
-<summary><b>Experiment 18</b> &nbsp;·&nbsp; 📅 16/11/26 &nbsp;·&nbsp; 1 output</summary>
+<summary><b>Experiment 18</b> &nbsp;·&nbsp; Design and Implementation of Router-Based Firewall Policies for Network Access Control and Threat Mitigation &nbsp;·&nbsp; 📅 16/11/26 &nbsp;·&nbsp; 1 output</summary>
 
 <img src="Exp18/Exp18_01.jpeg" width="480" alt="Exp18_01.jpeg">&nbsp;
 
@@ -244,7 +244,7 @@ ExpNN/
 
 <a id="exp19"></a>
 <details>
-<summary><b>Experiment 19</b> &nbsp;·&nbsp; 📅 16/11/26 &nbsp;·&nbsp; 1 output</summary>
+<summary><b>Experiment 19</b> &nbsp;·&nbsp; IDS/IPS-Based Network Intrusion Detection and Alert Analysis &nbsp;·&nbsp; 📅 16/11/26 &nbsp;·&nbsp; 1 output</summary>
 
 <img src="Exp19/Exp19_01.jpeg" width="480" alt="Exp19_01.jpeg">&nbsp;
 
@@ -252,7 +252,7 @@ ExpNN/
 
 <a id="exp20"></a>
 <details>
-<summary><b>Experiment 20</b> &nbsp;·&nbsp; 📅 23/11/26 &nbsp;·&nbsp; 2 outputs</summary>
+<summary><b>Experiment 20</b> &nbsp;·&nbsp; VPN Configuration and Secure Remote Network Access Analysis &nbsp;·&nbsp; 📅 23/11/26 &nbsp;·&nbsp; 2 outputs</summary>
 
 <img src="Exp20/Exp20_01.jpeg" width="480" alt="Exp20_01.jpeg">&nbsp;
 <img src="Exp20/Exp20_02.jpeg" width="480" alt="Exp20_02.jpeg">&nbsp;
@@ -261,7 +261,7 @@ ExpNN/
 
 <a id="exp21"></a>
 <details>
-<summary><b>Experiment 21</b> &nbsp;·&nbsp; 📅 18/11/26 &nbsp;·&nbsp; 4 outputs</summary>
+<summary><b>Experiment 21</b> &nbsp;·&nbsp; Web Application Vulnerability Assessment using OWASP-Based Testing Tools in a Controlled Environment &nbsp;·&nbsp; 📅 18/11/26 &nbsp;·&nbsp; 4 outputs</summary>
 
 <img src="Exp21/Exp21_01.jpeg" width="480" alt="Exp21_01.jpeg">&nbsp;
 <img src="Exp21/Exp21_02.jpeg" width="480" alt="Exp21_02.jpeg">&nbsp;
